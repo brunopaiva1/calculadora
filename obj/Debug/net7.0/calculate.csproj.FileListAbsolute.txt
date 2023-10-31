@@ -1,0 +1,14 @@
+/home/brunopaiva/calculate/bin/Debug/net7.0/calculate
+/home/brunopaiva/calculate/bin/Debug/net7.0/calculate.deps.json
+/home/brunopaiva/calculate/bin/Debug/net7.0/calculate.runtimeconfig.json
+/home/brunopaiva/calculate/bin/Debug/net7.0/calculate.dll
+/home/brunopaiva/calculate/bin/Debug/net7.0/calculate.pdb
+/home/brunopaiva/calculate/obj/Debug/net7.0/calculate.GeneratedMSBuildEditorConfig.editorconfig
+/home/brunopaiva/calculate/obj/Debug/net7.0/calculate.AssemblyInfoInputs.cache
+/home/brunopaiva/calculate/obj/Debug/net7.0/calculate.AssemblyInfo.cs
+/home/brunopaiva/calculate/obj/Debug/net7.0/calculate.csproj.CoreCompileInputs.cache
+/home/brunopaiva/calculate/obj/Debug/net7.0/calculate.dll
+/home/brunopaiva/calculate/obj/Debug/net7.0/refint/calculate.dll
+/home/brunopaiva/calculate/obj/Debug/net7.0/calculate.pdb
+/home/brunopaiva/calculate/obj/Debug/net7.0/calculate.genruntimeconfig.cache
+/home/brunopaiva/calculate/obj/Debug/net7.0/ref/calculate.dll
